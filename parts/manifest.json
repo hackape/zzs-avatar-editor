@@ -1,0 +1,97 @@
+[
+  {
+    "category": "人物",
+    "priority": 1,
+    "files": [
+      "/parts/人物.png"
+    ]
+  },
+  {
+    "category": "左眼",
+    "priority": 2,
+    "files": [
+      "/parts/眼睛左.png"
+    ]
+  },
+  {
+    "category": "右眼",
+    "priority": 2,
+    "files": [
+      "/parts/眼睛右.png"
+    ]
+  },
+  {
+    "category": "刘海",
+    "priority": 3,
+    "files": [
+      "/parts/刘海/刘海.png"
+    ]
+  },
+  {
+    "category": "鬓角",
+    "priority": 5,
+    "files": [
+      "/parts/鬓角/鬓角.png"
+    ]
+  },
+  {
+    "category": "后面头发",
+    "priority": 2,
+    "files": [
+      "/parts/后面头发/后面头发.png"
+    ]
+  },
+  {
+    "category": "额外头发",
+    "priority": 4,
+    "files": [
+      "/parts/额外头发/额外头发.png"
+    ]
+  },
+  {
+    "category": "衣服",
+    "priority": 6,
+    "files": [
+      "/parts/衣服/弹力西装.png",
+      "/parts/衣服/牛仔夹克.png",
+      "/parts/衣服/白色无袖背心.png",
+      "/parts/衣服/皮夹克白衬衣.png",
+      "/parts/衣服/羽绒夹克.png",
+      "/parts/衣服/蓝色连帽卫衣.png",
+      "/parts/衣服/长袖条纹T恤.png"
+    ]
+  },
+  {
+    "category": "裤子",
+    "priority": 5,
+    "files": [
+      "/parts/裤子/工装裤.png",
+      "/parts/裤子/弹力九分裤.png",
+      "/parts/裤子/灯芯绒九分裤.png",
+      "/parts/裤子/牛仔喇叭裤.png",
+      "/parts/裤子/牛仔裤.png",
+      "/parts/裤子/猎装裤.png",
+      "/parts/裤子/黑色运动裤.png"
+    ]
+  },
+  {
+    "category": "鞋",
+    "priority": 10,
+    "files": [
+      "/parts/鞋/白球鞋.png",
+      "/parts/鞋/皮鞋.png",
+      "/parts/鞋/装饰皮鞋.png"
+    ]
+  },
+  {
+    "category": "配件",
+    "priority": 11,
+    "files": [
+      "/parts/配件/披肩.png",
+      "/parts/配件/披风.png",
+      "/parts/配件/斜挎胸包.png",
+      "/parts/配件/棒球帽.png",
+      "/parts/配件/渔夫帽.png"
+    ]
+  }
+]
